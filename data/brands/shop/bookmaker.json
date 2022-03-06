@@ -191,12 +191,12 @@
     {
       "displayName": "ΟΠΑΠ",
       "id": "942bba-d5d811",
-      "locationSet": {"include": ["gr"]},
+      "locationSet": {"include": ["gr", "cy"]},
       "tags": {
         "brand": "ΟΠΑΠ",
         "brand:wikidata": "Q2007823",
         "brand:wikipedia": "el:ΟΠΑΠ",
-        "name": "ΟΠΑΠ",
+        "name": "ΟΠΑΠ"
         "shop": "bookmaker"
       }
     },
