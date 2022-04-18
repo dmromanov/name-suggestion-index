@@ -61,7 +61,7 @@
         "brand": "Armbruster",
         "brand:wikidata": "Q67987954",
         "name": "Armbruster",
-        "shop": "bakery"
+        "shop": "bakery
       }
     },
     {
@@ -1895,6 +1895,21 @@
         "name": "Βενέτη",
         "name:en": "Veneti",
         "shop": "bakery"
+      }
+    },
+    {
+      "displayName": "Τερκενλής",
+      "id": "terkenlis-f84b21",
+      "locationSet": {"include": ["gr", "mk", "cy"]},
+      "tags": {
+        "brand": "Τερκενλής",
+        "brand:wikidata": "Q16956985",
+        "brand:wikipedia": "en:Terkenlis",
+        "int_name": "Terkenlis",
+        "name": "Τερκενλής",
+        "name:en": "Terkenlis",
+        "shop": "bakery",
+        "website": "https://terkenlis.gr/"
       }
     },
     {
