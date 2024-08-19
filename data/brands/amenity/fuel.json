@@ -3084,6 +3084,17 @@
       }
     },
     {
+      "displayName": "K-Pet",
+      "id": "kpet-32d706",
+      "locationSet": {"include": ["trnc"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "K-Pet",
+        "name": "K-Pet"
+        "full_name": "Kıbrıs Türk Petrolleri"
+      }
+    },
+    {
       "displayName": "Kadoil",
       "id": "kadoil-ec7588",
       "locationSet": {"include": ["tr"]},
