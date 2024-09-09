@@ -1219,7 +1219,7 @@
       "id": "cocofreshteaandjuice-615ca1",
       "locationSet": {
         "include": ["001"],
-        "exclude": ["cn", "hk", "tw"]
+        "exclude": ["cn", "cy", "hk", "tw"]
       },
       "matchTags": ["shop/beverages"],
       "tags": {
